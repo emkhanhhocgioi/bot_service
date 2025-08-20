@@ -28,5 +28,3 @@ async def root(query: str):
         return result
     ì
 
-if __name__ == "__main__":
-    uvicorn.run("python_api:app", host="0.0.0.0", port=8000, reload=True)

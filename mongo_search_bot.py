@@ -177,8 +177,8 @@ def find_vietnam_provinces_in_text(text: str) -> List[str]:
 
 
 
-def call_local_api(payload: dict = None, method: str = "POST", url: str = "http://localhost:3001/api", timeout: int = 5) -> dict:
-    
+def call_local_api(payload: dict = None, method: str = "POST", url: str = "http://https://trip-service-z00x.onrender.com/api", timeout: int = 5) -> dict:
+
     payload = payload or {}
     method = (method or "POST").upper()
 
@@ -250,7 +250,7 @@ def search_trips_with_provinces(query: str, intent: str) -> dict:
             response = call_local_api(
                 payload=params,
                 method="GET", 
-                url="http://localhost:3001/api/trips/search",
+                url="http://https://trip-service-z00x.onrender.com/api/trips/search",
                 timeout=10
             )
           

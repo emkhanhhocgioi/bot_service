@@ -4,7 +4,7 @@ from typing import Optional
 import uvicorn
 
 # Giả sử bạn đã có hàm predict_intent từ intent_bot.py
-\
+
 from mongo_search_bot import search_trips_with_provinces , predict_intent
 
 app = FastAPI(title="Intent Classification API")
@@ -26,7 +26,7 @@ async def root(query: str):
     if intent == "ask_route" or intent == "ask_price" or intent == "ask_destination":
         result = search_trips_with_provinces(query, intent)
         return result
-    
+    ì
 
 if __name__ == "__main__":
     uvicorn.run("python_api:app", host="0.0.0.0", port=8000, reload=True)

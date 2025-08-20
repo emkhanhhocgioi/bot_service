@@ -1,0 +1,3362 @@
+[
+  {
+    "text": "Giá vé từ Đắk Lắk đi Gia Lai bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Ninh Bình - Huế",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé An Giang đi Bà Rịa - Vũng Tàu bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Vinh đến An Giang giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Vĩnh Long đi Nha Trang bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Huế Hà Giang hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Ngãi Phú Thọ hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Nam Định đến Bắc Giang giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Hải Phòng đến Nghệ An giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Thái Nguyên Quảng Nam hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Trà Vinh Lào Cai hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Lai Châu đi Nghệ An bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Đắk Nông đi Cần Thơ bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Cần Thơ đi Ninh Thuận bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Ngãi Đắk Lắk hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Bến Tre đi Yên Bái bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Hà Tĩnh đến Tây Ninh giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Đà Nẵng - Điện Biên",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Huế đi Tuyên Quang bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Bà Rịa - Vũng Tàu đi Đà Nẵng bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Đồng Tháp đi Quảng Trị bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Tiền Giang đi Cà Mau bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Vinh đến Thái Nguyên giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Hà Nam đi Gia Lai bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé TP Hồ Chí Minh đi Quảng Bình bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Đồng Tháp Nghệ An hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Bắc Ninh đi Nam Định bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Cao Bằng đi Phú Yên bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Ninh Bình đi Khánh Hòa bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Tây Ninh - Bắc Ninh",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Phú Yên - Thái Nguyên",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Nam Hải Dương hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Hà Tĩnh đến Nha Trang giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Quảng Nam đến Bắc Kạn giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Bắc Ninh đi Bình Định bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Đà Nẵng đi Hà Giang bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Đắk Lắk đi Tuyên Quang bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Tiền Giang - Nha Trang",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Phú Thọ - Đà Nẵng",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Ninh Bình Kon Tum hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Ninh Thuận đi Quảng Ngãi bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bình Phước - Lạng Sơn",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Gia Lai - Tuyên Quang",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Hà Tĩnh - Hà Nội",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Nghệ An - Phú Thọ",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bến Tre - Tây Ninh",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Hải Phòng Hòa Bình hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bình Định - Lạng Sơn",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Nam Định đến Đà Lạt giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Vĩnh Long đi Sài Gòn bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Điện Biên Thừa Thiên Huế hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Đồng Tháp đi Vĩnh Long bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Phú Thọ đi Gia Lai bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Thanh Hóa Hòa Bình hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Bình Định đến Hòa Bình giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé An Giang - Bắc Giang",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bình Thuận - Đà Lạt",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Quảng Nam - Nha Trang",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Đắk Lắk đến Vinh giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Lai Châu đi Sơn La bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Bạc Liêu Tây Ninh hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Nam Định đi Thái Nguyên bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Lâm Đồng đi Phú Yên bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Thừa Thiên Huế - Hưng Yên",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Long An đi Bà Rịa - Vũng Tàu bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Hưng Yên Hải Phòng hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Đắk Nông đi Vĩnh Phúc bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Đồng Tháp - Ninh Thuận",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Cần Thơ TP Hồ Chí Minh hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Hải Phòng đi Đồng Tháp bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Hậu Giang đi Cà Mau bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Quảng Trị đến Đồng Nai giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Đắk Lắk Đà Lạt hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Sài Gòn - Quảng Ngãi",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Thái Bình đi Đà Nẵng bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Đà Lạt đến Yên Bái giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Gia Lai đến Phú Yên giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Quảng Ninh đi Hòa Bình bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Đà Lạt đến Nam Định giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Vĩnh Phúc đi Bắc Ninh bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Quảng Nam đi Bình Thuận bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Hà Nội - Hà Nam",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Nam Định đến Bà Rịa - Vũng Tàu giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Bình Dương đi Ninh Thuận bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Tuyên Quang - Tây Ninh",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Bà Rịa - Vũng Tàu đến Sơn La giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Gia Lai đi Bến Tre bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Hà Nam đến Hà Tĩnh giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Trà Vinh đi Đắk Nông bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Nam Định đi Lạng Sơn bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Hà Tĩnh đến Bạc Liêu giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé An Giang - Bà Rịa - Vũng Tàu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Đồng Nai Thanh Hóa hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Đắk Nông - TP Hồ Chí Minh",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Bình Tây Ninh hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Vinh đi Nghệ An bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Kon Tum - Thanh Hóa",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Hậu Giang Tây Ninh hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Giá vé từ Ninh Bình đi Bắc Giang bao nhiêu",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Bình Phước đi Khánh Hòa bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Bến Tre Bắc Ninh hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Hà Giang Hải Phòng hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Tiền Giang đi Hải Phòng bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Ninh Cao Bằng hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Bắc Ninh Huế hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bắc Ninh - Long An",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ An Giang đến Vĩnh Long giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Đà Lạt đi Lai Châu bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Lai Châu đi Quảng Trị bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Khánh Hòa - Quảng Ninh",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Sài Gòn đi Lai Châu bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Ninh Bình Thái Nguyên hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Phú Thọ đến Phú Yên giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Hà Giang - Sóc Trăng",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Bình Phước - Huế",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Đi Quảng Bình Bắc Kạn hết bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Bao nhiêu tiền một vé Hưng Yên - Thừa Thiên Huế",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Quảng Nam đến Sóc Trăng giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Vé Bến Tre đi Đắk Nông bao nhiêu tiền",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Kon Tum đến Lạng Sơn giá thế nào",
+    "intent": "ask_price"
+  },
+  {
+    "text": "Xe từ Bình Thuận đến Đà Nẵng có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Hà Tĩnh Quảng Nam có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Đà Lạt Yên Bái có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Kon Tum đến Quảng Nam có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Bến Tre đi Bình Thuận không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Kon Tum đi Phú Yên có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Bình Thuận Hà Nam có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Hưng Yên đến Thái Bình có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Yên Bái tới Lai Châu không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Bắc Giang tới Đắk Lắk không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Long An đi Thanh Hóa không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Lạng Sơn đi Ninh Thuận có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Tây Ninh đến Đồng Nai có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Đà Nẵng đi Sơn La không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Đắk Lắk đến Lai Châu có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Điện Biên tới Sóc Trăng không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Bình Định đi Bắc Giang có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Sóc Trăng đến Đồng Tháp có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Đồng Tháp đi Hà Nam có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Bến Tre đi Tiền Giang có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Hưng Yên đến Đắk Lắk có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Kiên Giang đến Hà Tĩnh có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Lâm Đồng đi Hà Nội có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ TP Hồ Chí Minh tới Bắc Giang không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Tây Ninh tới Hà Nội không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Trà Vinh đi Quảng Bình không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Đà Lạt tới Điện Biên không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ TP Hồ Chí Minh đến Sơn La có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Quảng Bình đi Cà Mau có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Vĩnh Long Phú Yên có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Hà Tĩnh đi Gia Lai không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Bình Phước tới Bắc Kạn không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Nha Trang đến Hậu Giang có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Đồng Nai Vinh có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Tuyên Quang tới Trà Vinh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Tây Ninh đi An Giang có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Sóc Trăng Quảng Nam có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Gia Lai đi Sài Gòn có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Hà Giang tới Lâm Đồng không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Phú Yên tới Quảng Bình không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Bà Rịa - Vũng Tàu đến Cà Mau có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Quảng Ngãi đến Kiên Giang có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Ninh Thuận đi Tiền Giang không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Sơn La Tây Ninh có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Đắk Lắk đến Hà Nội có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Hậu Giang tới Hà Tĩnh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Sóc Trăng đi Quảng Ngãi không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Cần Thơ tới Phú Yên không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Bạc Liêu tới Đà Lạt không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Huế đi Kiên Giang không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Bình Thuận đến Ninh Bình có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Nam Định đi Quảng Trị không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Lào Cai đi TP Hồ Chí Minh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Long An đi Lai Châu không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Sóc Trăng TP Hồ Chí Minh có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Đồng Tháp tới Quảng Nam không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Bạc Liêu đi Tuyên Quang không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Thừa Thiên Huế đi Quảng Nam không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Thái Nguyên đến Hà Tĩnh có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Yên Bái đến Hưng Yên có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Quảng Ninh đi Trà Vinh có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Tuyên Quang đi Lạng Sơn có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Hòa Bình đi Bà Rịa - Vũng Tàu không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Gia Lai đi Thái Nguyên không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Lạng Sơn đi Hải Phòng có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Kiên Giang Thanh Hóa có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Bình Định tới Sài Gòn không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Đồng Nai tới Khánh Hòa không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ An Giang tới Gia Lai không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Tây Ninh đi Đà Lạt có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Cần Thơ đi Bến Tre có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Bà Rịa - Vũng Tàu Lâm Đồng có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Vĩnh Phúc đến Bắc Kạn có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Nha Trang đi Nam Định có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Hà Nam đến Sóc Trăng có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Thái Nguyên tới Trà Vinh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Vinh đi Gia Lai không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Vĩnh Long đi Quảng Bình có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Trà Vinh Khánh Hòa có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Bến Tre đi Sóc Trăng không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Ninh Thuận đến Hà Nam có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Phú Yên đi TP Hồ Chí Minh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Hà Nội đến Bến Tre có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Đà Nẵng Bình Phước có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Bến Tre đi Đắk Lắk có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Đắk Nông Long An có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Bạc Liêu đi Long An không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Huế đến Bạc Liêu có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Cà Mau tới Ninh Bình không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Thừa Thiên Huế đến Sơn La có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Hà Tĩnh Vinh có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Hà Nội đến Hải Phòng có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Bến Tre đi Vĩnh Long không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Bắc Kạn đi Lai Châu có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Đắk Nông Quảng Ninh có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Yên Bái đi TP Hồ Chí Minh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Bắc Giang đến Lâm Đồng có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Nha Trang đi Hải Dương có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ TP Hồ Chí Minh đi Bạc Liêu có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Bắc Kạn tới Cao Bằng không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Bắc Ninh đến Vinh có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Phú Yên tới Hải Phòng không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ An Giang đến Vĩnh Long có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Sóc Trăng đến An Giang có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Hà Nội đi Đắk Lắk không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Lào Cai đi Đà Nẵng có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Thái Nguyên tới Bắc Kạn không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Vinh đi Vĩnh Phúc có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Vĩnh Long tới Đà Lạt không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Quảng Ngãi Vĩnh Phúc có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Nha Trang đi Thanh Hóa không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Đồng Tháp đi Kon Tum có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Trà Vinh tới Quảng Bình không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Từ Tuyên Quang đi Trà Vinh có xe không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Cần Thơ tới Điện Biên không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có tuyến nào từ Cà Mau đi Quảng Trị không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Quảng Ngãi Hà Nam có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Khánh Hòa Tuyên Quang có xe chạy không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Xe từ Đắk Lắk đến Hà Giang có không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Có chuyến nào đi từ Quảng Bình tới Quảng Ninh không",
+    "intent": "ask_route"
+  },
+  {
+    "text": "Tuyến Lai Châu-Thái Bình có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Điện Biên-Hải Dương có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Bắc Giang đến Vĩnh Phúc là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Hải Dương đến Nam Định là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Hải Phòng-Vĩnh Phúc có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Khánh Hòa đến Lâm Đồng",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Vĩnh Long đến Hà Nam",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Hà Tĩnh tới Bình Dương là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bắc Giang tới Lạng Sơn là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Đồng Nai-Lâm Đồng có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Thái Nguyên đến Lào Cai là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Vinh đến Ninh Bình",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Vĩnh Phúc - Quảng Trị khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Phú Thọ đến Bắc Giang",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Phú Thọ tới Đà Lạt là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Hà Tĩnh đến Bạc Liêu là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Hà Giang-Bạc Liêu có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bình Dương tới Hà Tĩnh là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Bình Dương đến Điện Biên",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bình Thuận tới Bình Phước là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Tiền Giang đến Sài Gòn",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Trà Vinh đến Điện Biên",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Quảng Ngãi tới Vĩnh Long là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Thanh Hóa - Bình Định khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến An Giang-Bạc Liêu có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Đồng Tháp đến Thừa Thiên Huế",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Cao Bằng - Đồng Nai khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Thanh Hóa tới Hà Nam là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Vĩnh Long tới An Giang là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Hà Tĩnh tới Lâm Đồng là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Cà Mau - Lâm Đồng khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Quảng Ninh đến Ninh Thuận là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bắc Giang tới Quảng Ngãi là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Cần Thơ - Sài Gòn khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Tây Ninh đến Vinh",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Đắk Nông tới Quảng Ngãi là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Sơn La tới Quảng Nam là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Hà Tĩnh đến Bạc Liêu là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Sơn La đến Thái Nguyên",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Quảng Ninh tới Bình Dương là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Quảng Trị đến Lạng Sơn",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Ninh Bình - Gia Lai khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ TP Hồ Chí Minh đến Đồng Nai là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Quảng Ninh đến Thái Nguyên",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Nha Trang tới Bình Thuận là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Lào Cai tới Đồng Tháp là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Bình Thuận-Thừa Thiên Huế có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Yên Bái đến Hà Giang là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Cao Bằng đến Ninh Bình",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Bình Định đến Bạc Liêu",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Phú Thọ-Tuyên Quang có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Ninh Thuận đến Bắc Giang là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bạc Liêu tới Bến Tre là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Sơn La tới Bạc Liêu là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bình Dương tới Quảng Ninh là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Nam Định-Khánh Hòa có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Thái Nguyên đến Lào Cai là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Hòa Bình đến Sóc Trăng",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Phú Yên-Vĩnh Phúc có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Hòa Bình - Đắk Lắk khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Đồng Tháp đến Bắc Giang",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Quảng Ngãi-Đồng Nai có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Bình Thuận-Hòa Bình có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Kon Tum tới Quảng Bình là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Cần Thơ đến Hậu Giang",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Bình Dương - Vĩnh Long khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Vinh tới Quảng Bình là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bình Định tới Vĩnh Phúc là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Cao Bằng - Hải Dương khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Yên Bái-Đà Nẵng có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Cần Thơ đến Kon Tum là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi TP Hồ Chí Minh - Hưng Yên khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Bình Phước-Hà Nội có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát TP Hồ Chí Minh tới Đồng Tháp là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Thừa Thiên Huế đến Hải Phòng",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Tiền Giang đến Bắc Giang là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Ninh Bình đến Đắk Nông là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Nghệ An tới Nha Trang là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Ninh Bình đến Gia Lai là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Hậu Giang-Bình Thuận có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Hậu Giang đến Vĩnh Phúc là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ An Giang đến Tây Ninh là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Hậu Giang đến Đắk Nông là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Thái Bình-Bình Dương có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Thái Bình - Bình Định khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Hà Nội đến Đồng Tháp",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Lào Cai đến Đồng Nai",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Bạc Liêu đến Bà Rịa - Vũng Tàu",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Đà Lạt tới Hà Nội là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Hải Dương tới Hòa Bình là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Phú Thọ-Tuyên Quang có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Nghệ An đến Tuyên Quang là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Cao Bằng - Cà Mau khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát An Giang tới Gia Lai là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Vĩnh Phúc-Quảng Ninh có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Đồng Nai đến Quảng Trị",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Hà Giang-Cà Mau có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Sóc Trăng - Long An khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Thừa Thiên Huế đến Lâm Đồng",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Thái Bình - Lạng Sơn khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Sơn La tới Quảng Bình là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Gia Lai đến Hà Nội là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Bắc Kạn tới Vinh là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Thái Nguyên-Quảng Trị có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Lâm Đồng đến Đồng Tháp là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Kon Tum đến Hà Nam là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Long An đến Lâm Đồng là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Tuyên Quang-Tiền Giang có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Sài Gòn tới Cà Mau là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Trà Vinh tới Thừa Thiên Huế là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Bình Phước đến Kon Tum",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Lai Châu đến Đà Nẵng là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Nha Trang tới Đà Nẵng là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Hưng Yên tới Đắk Nông là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Phú Thọ tới Bình Phước là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Giờ khởi hành từ Bắc Ninh đến Vĩnh Long là mấy giờ",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Thời gian xuất phát Hậu Giang tới Nghệ An là khi nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Tuyến Nha Trang-Quảng Trị có giờ chạy như thế nào",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Mất bao lâu từ Đà Nẵng đến Bình Phước",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Chuyến đi Bình Dương - Cà Mau khởi hành lúc mấy",
+    "intent": "ask_time"
+  },
+  {
+    "text": "Xe thường chạy từ Vinh lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Thái Bình là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Dương là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Phú Thọ là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Bắc Kạn là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hòa Bình là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Long An là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Thái Nguyên là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Lâm Đồng là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Hưng Yên lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Long An là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bạc Liêu là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Bắc Giang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Quảng Trị lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Dương là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Ninh Thuận lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Thái Bình lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hưng Yên là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Điện Biên là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Phước là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Hậu Giang là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Yên Bái là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Sài Gòn là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Sơn La là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Dương là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Vinh là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Cao Bằng là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Yên Bái lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Ninh Bình là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Cần Thơ là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Bắc Giang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Thanh Hóa là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Kiên Giang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Hòa Bình là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Phú Thọ là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Cần Thơ lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Tiền Giang là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Phước là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở TP Hồ Chí Minh là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Hà Giang là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Sơn La là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hà Tĩnh là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bắc Ninh là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Nha Trang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Phú Yên là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Thanh Hóa là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Hà Nam là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Bắc Giang là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Đà Lạt là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Quảng Ninh là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Sóc Trăng lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hà Nội là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Bà Rịa - Vũng Tàu là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Quảng Ngãi lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Vinh lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Quảng Ninh là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bắc Ninh là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Cần Thơ là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Quảng Ninh là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Lâm Đồng là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Tuyên Quang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Đắk Lắk là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Lào Cai lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở TP Hồ Chí Minh là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Đà Nẵng là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Sài Gòn lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Long An là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Ninh Thuận là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Trà Vinh là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Bình Định lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bạc Liêu là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hà Nam là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Sơn La là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Hà Nội là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Sài Gòn là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Đà Lạt là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Hòa Bình là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Yên Bái là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Khánh Hòa là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Nghệ An là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Nam Định là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Long An là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Lào Cai là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Vĩnh Phúc lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Tiền Giang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Hà Nam là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Đắk Lắk là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Nam Định là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bến Tre là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Nghệ An là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Cao Bằng là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Vĩnh Phúc là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Sài Gòn là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Đắk Lắk là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Bình Định là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Cần Thơ là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Hà Nam là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bình Phước là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hòa Bình là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Phú Yên lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Quảng Trị là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Trà Vinh là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở An Giang là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Đồng Tháp là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Bình Định là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Nha Trang là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Nha Trang là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Hà Nam lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Nghệ An là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Cao Bằng là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Khánh Hòa là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ Bình Thuận lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Quảng Trị là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Xe thường chạy từ An Giang lúc mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Hải Phòng là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Kon Tum là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Bắc Giang là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Khởi hành tiêu chuẩn từ Cao Bằng là lúc nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Giờ khởi hành mặc định từ Hậu Giang là mấy giờ",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Thời gian xuất phát thông thường ở Thừa Thiên Huế là khi nào",
+    "intent": "ask_default_time"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Thái Nguyên - Hà Tĩnh không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Sơn La Thanh Hóa",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Kiên Giang - An Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Quảng Trị Bắc Ninh",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Vĩnh Phúc Bến Tre",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Thái Nguyên - Hải Dương không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hà Nội Yên Bái có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Bình đến Nghệ An có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Đà Lạt Trà Vinh có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bình Dương - Cao Bằng không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bến Tre - Nha Trang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Kon Tum - Hải Dương không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Khánh Hòa - Kiên Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hòa Bình đến Thanh Hóa có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Tây Ninh - Tuyên Quang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hải Phòng Tuyên Quang có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Đắk Lắk đến Lâm Đồng có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Cà Mau đến Long An có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Phú Thọ đến Lào Cai có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Thái Nguyên Tây Ninh có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Huế Hưng Yên có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến An Giang đến Thừa Thiên Huế có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Lào Cai Bắc Ninh",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Sơn La Cần Thơ",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Cần Thơ đến Kon Tum có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Lạng Sơn đến Hà Nội có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Sài Gòn Nha Trang có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Hậu Giang - Hải Phòng không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Nha Trang đến Vinh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Hà Nội - Ninh Bình không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Yên Bái Bình Định có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hậu Giang Hà Nội có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Phước đến Đồng Tháp có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Vinh - Thanh Hóa không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Ninh Thuận TP Hồ Chí Minh có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Trị đến Phú Thọ có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Ngãi Hà Giang có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Quảng Trị - Tây Ninh không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Dương đến Khánh Hòa có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bắc Kạn đến Bình Phước có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bà Rịa - Vũng Tàu - Ninh Thuận không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Thái Nguyên - Hòa Bình không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Thanh Hóa - Sóc Trăng không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Hải Dương Cao Bằng",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Đà Nẵng đến Hà Tĩnh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Long An Cao Bằng",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Đà Nẵng - Hà Nội không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Nghệ An Lai Châu có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Tuyên Quang - Phú Yên không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hải Dương đến Nha Trang có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Quảng Nam - Tiền Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Yên Bái Thừa Thiên Huế có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Sơn La đến Kiên Giang có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Tuyên Quang - Cần Thơ không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Tiền Giang đến Hà Giang có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến TP Hồ Chí Minh - Bình Định không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Dương Sơn La có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Huế - Bình Thuận không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Quảng Bình - Hà Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Vinh Hưng Yên",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Trà Vinh đến Vinh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Yên Bái Đồng Tháp",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Tuyên Quang đến Quảng Trị có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Sóc Trăng đến Tiền Giang có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Thuận đến Điện Biên có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Thái Nguyên Sóc Trăng",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Nghệ An - Huế không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hậu Giang đến Sài Gòn có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Vĩnh Long Gia Lai có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến An Giang đến Bến Tre có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Đà Lạt - Nha Trang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe An Giang Hải Dương",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Khánh Hòa - Quảng Ninh không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Khánh Hòa Hà Nội có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Cà Mau Quảng Trị có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Trị đến TP Hồ Chí Minh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Bình Định Hưng Yên",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bắc Giang - Kiên Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bà Rịa - Vũng Tàu - Hậu Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe TP Hồ Chí Minh Ninh Thuận",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Ngãi đến Trà Vinh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Nam Định đến Long An có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Phước đến Hà Giang có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Phú Yên đến Ninh Bình có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bình Thuận - Đồng Tháp không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Vĩnh Phúc Trà Vinh có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Lạng Sơn đến TP Hồ Chí Minh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Ninh Thuận - Kon Tum không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Huế đến Hòa Bình có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Trị đến Bình Dương có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Dương đến Bến Tre có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Long An - Bắc Ninh không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Bà Rịa - Vũng Tàu TP Hồ Chí Minh",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Đà Lạt - Điện Biên không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Cần Thơ Vĩnh Long có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Quảng Trị Sài Gòn",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Thuận Quảng Nam có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Bình Vĩnh Long có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Kon Tum - Quảng Trị không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Đồng Tháp Tuyên Quang",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Điện Biên đến Huế có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Lào Cai TP Hồ Chí Minh",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến An Giang Quảng Trị có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bình Định - Cà Mau không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Bình Phước Đà Lạt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Quảng Ninh đến Lạng Sơn có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Bà Rịa - Vũng Tàu Vinh",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Bình Định đến Hòa Bình có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Điện Biên - Hải Dương không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Vĩnh Long Tuyên Quang",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Quảng Trị - Ninh Bình không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Bắc Ninh - Bắc Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Sơn La Đắk Nông",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Bà Rịa - Vũng Tàu Đắk Lắk",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Hà Nội An Giang có điểm gì nổi bật",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Kon Tum Bình Dương",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Tuyến Ninh Bình đến Hà Tĩnh có gì đặc biệt",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Lạng Sơn - Vĩnh Long không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Giới thiệu về tuyến xe Đắk Nông Hà Giang",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Bạn có thể mô tả về tuyến Đồng Tháp - Bắc Giang không",
+    "intent": "ask_description"
+  },
+  {
+    "text": "Từ Hòa Bình có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Nghệ An đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Long An là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Điện Biên có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bắc Kạn có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Phú Yên có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Cần Thơ có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Nha Trang có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Vĩnh Phúc là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Hà Tĩnh có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Hà Nội đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Kiên Giang có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Thừa Thiên Huế là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Lâm Đồng có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Vĩnh Phúc có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hà Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bà Rịa - Vũng Tàu có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bà Rịa - Vũng Tàu là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Huế có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Yên Bái có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bình Dương có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Lâm Đồng có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Hậu Giang có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Quảng Trị đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Thanh Hóa đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bắc Ninh có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hà Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ An Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bạc Liêu có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Hà Tĩnh đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Thừa Thiên Huế có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bình Dương có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Cao Bằng có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bình Dương có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Ninh Bình có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Hậu Giang đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Quảng Ninh đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bà Rịa - Vũng Tàu là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Trà Vinh có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Nha Trang có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Lai Châu có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ An Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Đắk Lắk có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bình Thuận là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Thừa Thiên Huế có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Lạng Sơn đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Hà Giang có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Quảng Nam là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Ninh Thuận là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hậu Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Sài Gòn là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Sơn La có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Tuyên Quang có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Cao Bằng có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bắc Kạn là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Nghệ An có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Sài Gòn có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Đà Nẵng là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Bình Phước đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Thừa Thiên Huế có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bình Thuận là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bến Tre có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Cần Thơ là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Ninh Bình có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Điện Biên có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hà Nội là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Tây Ninh có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Lai Châu là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Trà Vinh là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Nha Trang có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Quảng Ninh là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Quảng Bình có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Bắc Giang đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Tiền Giang đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Lâm Đồng có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Hưng Yên đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Trà Vinh đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Cao Bằng có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ TP Hồ Chí Minh có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Hà Giang có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Bạc Liêu là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Ninh Bình là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Thanh Hóa đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Huế có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Hà Nam đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Nghệ An là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Cần Thơ đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Quảng Ninh là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bình Thuận có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Nam Định là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Điện Biên là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Quảng Trị có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bến Tre có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bình Thuận có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bến Tre có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Quảng Nam có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Quảng Trị có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Hà Giang có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bà Rịa - Vũng Tàu có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Huế có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bắc Kạn có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Trà Vinh có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Phú Yên đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Lâm Đồng là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Vinh có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Sơn La đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hà Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Lào Cai là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Lai Châu là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Long An đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Bình Dương đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Vinh là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hòa Bình là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ An Giang là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Thái Nguyên đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Phú Yên có thể đi những đâu",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Các điểm đến từ Hòa Bình là gì",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Từ Bắc Kạn có tuyến đi tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Tiền Giang đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Xe từ Long An đi được những tỉnh nào",
+    "intent": "ask_destination"
+  },
+  {
+    "text": "Giá vé trung bình từ Nghệ An đến Quảng Nam là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Lào Cai đi TP Hồ Chí Minh thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Lào Cai đến Vinh là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Bình Phước Cao Bằng là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Hải Phòng Hà Nội là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Điện Biên đến Bắc Ninh là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Quảng Ngãi Ninh Bình là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Lâm Đồng Vinh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Quảng Trị đi Đồng Tháp thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bắc Ninh đến Hải Phòng là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Thừa Thiên Huế đi Đà Lạt thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hải Phòng Sóc Trăng hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Huế đến Thái Bình là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Hải Phòng đi Đắk Nông thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Ninh Thuận An Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Quảng Trị đến Nghệ An là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thừa Thiên Huế Quảng Ninh là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Đà Lạt đến Điện Biên là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Tiền Giang Bạc Liêu hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Cao Bằng đến An Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thái Nguyên Quảng Bình là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Hưng Yên Hải Dương là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Lai Châu Cà Mau là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Tây Ninh Quảng Ninh là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bắc Ninh đến Bạc Liêu là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hải Dương Phú Yên hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Hải Dương Ninh Bình là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Lạng Sơn Trà Vinh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ An Giang đến Bắc Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Cần Thơ đi Nha Trang thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Quảng Trị đi Huế thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Đắk Nông đi Điện Biên thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Lai Châu Bến Tre là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Sơn La đến Điện Biên là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Sơn La Gia Lai hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Quảng Nam đi Bình Thuận thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Bến Tre Quảng Trị hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Sơn La Bắc Giang hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Thái Nguyên đến Sài Gòn là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thanh Hóa Đắk Nông là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Đắk Lắk đến Hà Nội là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Sóc Trăng TP Hồ Chí Minh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Thái Nguyên Bình Dương hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Bình Định đi Thái Nguyên thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Cà Mau Hà Tĩnh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Quảng Bình Bắc Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Tuyên Quang đi Đà Nẵng thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Cà Mau đi Cao Bằng thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Nghệ An Đồng Tháp là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Tây Ninh đi Bà Rịa - Vũng Tàu thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Tây Ninh đến Hưng Yên là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Nam Định đến Thừa Thiên Huế là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Sóc Trăng đi Bình Phước thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Sóc Trăng đến Thừa Thiên Huế là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Kon Tum đến Huế là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hà Giang Vĩnh Long hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Cà Mau đi Đắk Lắk thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Hậu Giang đi Khánh Hòa thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ TP Hồ Chí Minh đến Đồng Nai là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Trà Vinh đến Đắk Lắk là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Bình Dương Cà Mau hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bình Phước đến Đà Lạt là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Cần Thơ Quảng Ngãi hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Kiên Giang đến Đà Nẵng là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Điện Biên đến Yên Bái là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Cà Mau TP Hồ Chí Minh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hà Tĩnh Tuyên Quang hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Long An Hà Nam hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Đà Lạt Đồng Tháp là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Bắc Kạn Điện Biên là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Bình Phước đi Tiền Giang thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Kon Tum đến Cần Thơ là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Cà Mau đi TP Hồ Chí Minh thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Sơn La Điện Biên là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Bắc Kạn Nha Trang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Khánh Hòa Tiền Giang hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Long An đến An Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bình Thuận đến Gia Lai là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Long An đi Bình Định thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Vinh đến Bình Phước là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Yên Bái Bắc Kạn là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Nghệ An Hà Tĩnh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Bắc Ninh Hưng Yên hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Khánh Hòa đi Bạc Liêu thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thái Nguyên Bình Phước là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Nam Định đi Huế thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Long An Quảng Bình hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Bình Phước Gia Lai là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bình Thuận đến Kon Tum là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Bắc Ninh đi Cần Thơ thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Nha Trang đến An Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Phú Thọ Long An hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thanh Hóa Lâm Đồng là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Đồng Tháp đến Vĩnh Long là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Lào Cai đi Sài Gòn thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Sóc Trăng Nghệ An hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Yên Bái Kon Tum hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Đắk Lắk đến Lai Châu là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hà Nam Cần Thơ hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Khánh Hòa đến Ninh Thuận là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Huế Tây Ninh hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hà Giang Lai Châu hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Đắk Lắk Kiên Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Lâm Đồng đi Bắc Giang thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Vĩnh Long Lạng Sơn hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Tuyên Quang đến Thừa Thiên Huế là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Nha Trang Lào Cai hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thanh Hóa Lào Cai là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Bắc Giang đến Bà Rịa - Vũng Tàu là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Bình Phước Hà Tĩnh là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé Hải Dương đi Vĩnh Long thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ Đồng Nai đến Hà Nam là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Phú Thọ Đà Lạt hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến TP Hồ Chí Minh Huế là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Thừa Thiên Huế Yên Bái là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Vé An Giang đi Bà Rịa - Vũng Tàu thường giá bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hậu Giang Hòa Bình hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá thông thường tuyến Hải Phòng Hà Giang là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Giá vé trung bình từ An Giang đến Đắk Nông là bao nhiêu",
+    "intent": "ask_average_price"
+  },
+  {
+    "text": "Trung bình đi Hà Nam Đồng Nai hết bao nhiêu tiền",
+    "intent": "ask_average_price"
+  }
+]
